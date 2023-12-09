@@ -1,0 +1,10 @@
+ Q0 - Stworzenie bazy danych, tabel i uzupełnienie ich danymi
+ Q1 - Wypisanie ilości wypożyczeń kazdej z książek znajdujacych sie w bibliotece
+ Q2 - Zmiana domeny email z example.com na wp.pl i odwrotnie
+ Q3 - Ustawienie tylko ostatnich liter w imionach i nazwiskach klientów na wielkie
+ Q4 - Jaką liczbę wypozyczeń wykonal każdy z klientów
+ Q5 - Wypisuje pracowników, którzy nie obsłużyli zadnego wypożyczenia
+ Q6 - Wypisuje wszystkie domeny email w jakich klienci mają zarejestrowane prywatne emaile
+ Q7 - Wypisuje pracowników i klientów, którzy mieli styczność z książką "1894"
+ Q8 - Wypisuje książki, które nie były wypozyczone ani razu
+ Q9 - Wypisuje imiona i nazwiska klientów, którzy wypożyczali książkę "Zagadka trzech kartofli" a nie wypożyczali nigdy książki "1894"

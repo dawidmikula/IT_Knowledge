@@ -1,4 +1,4 @@
-I present the steps I took to create requests in Postman (each step is presented in a screenshot).
+# I present the steps I took to create requests in Postman (each step is presented in a screenshot).
 
 01.	Creating a variable for the URL to the API
 02.	Checking if the API responds correctly

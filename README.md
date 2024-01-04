@@ -1,10 +1,9 @@
-# Tester
-Cześć,
-zebrałem tutaj katalogi reprezentujące różne umiejętności, wiedzę i doświadczenie zdobyte podczas nauki na stanowisko testera manualnego,
-możesz tu znaleźć między innymi: 
-  - stworzoną bazę wraz z zapytaniami do niej w SQL,
-  - przypadki testowe napisane w TestRail i qTest,
-  - raporty błędów napisane w programie Jira,
-  - certyfikaty i zaświadczenia
-oraz moje skromne CV :D
+# Testing
+Hi, here you can see catalogs representing various skills, knowledge, and experience gained while studying for the position of a manual tester. Among other things, you can find:
 
+  - created database with queries in SQL,
+  - test cases written in TestRail and qTest,
+  - bug reports written in Jira,
+  - basic API tests in Postman,
+  - certificates
+and my humble CV :D

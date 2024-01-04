@@ -1,4 +1,4 @@
-Explanation of what the test codes in the screenshots do.
+# Explanation of what the test codes in the screenshots do
 
 01.	Checking whether status Code = "200" and whether status = "UP"
 02.	Checking if Code status = "200", selecting only available inStocks, assigning the ID of the first tool to a variable if any tool exists, assigning a category to globals

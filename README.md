@@ -6,4 +6,5 @@ Hi, here you can see catalogs representing various skills, knowledge, and experi
   - bug reports written in Jira,
   - basic API tests in Postman,
   - certificates
-and my humble CV :D
+
+
